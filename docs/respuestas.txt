@@ -1,0 +1,9 @@
+Herramientas de Alto Nivel
+Alexandra Rivero García
+Respuestas Práctica 2
+
+Git Repository: https://github.com/alu0100505122/prct02
+
+8. ¿Qué es GitHub?
+
+14. ¿Qu´e es un repositorio remoto?
