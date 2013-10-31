@@ -5,5 +5,18 @@ Respuestas Práctica 2
 Git Repository: https://github.com/alu0100505122/prct02
 
 8. ¿Qué es GitHub?
+   
+   Es un sistema de control de versiones online que utiliza git como base. Permite
+el trabajo de manera colaborativa y pública para facilitar el intercambio de
+conocimientos y la colaboración dentro de equipos de trabajo. 
 
-14. ¿Qu´e es un repositorio remoto?
+10. ¿Qué es una clave pública?
+
+    Una clave pública es uno de los tipos de clave que se utiliza en los cifrados
+asimétricos, que lo que te permite cifrar un mensaje y poder volver a conseguir 
+el mensaje original mediante una privada. 
+
+14. ¿Qué es un repositorio remoto?
+
+   Es el archivo que tienes subido en el control de versiones y en donde vamos a
+almacenar los cambios de nuestro proyecto. 
